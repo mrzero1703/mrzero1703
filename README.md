@@ -16,7 +16,7 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./instagram-light.svg)]([https://instagram.com/codeSTACKr#gh-light-mode-only](https://www.instagram.com/mrzero_zz/))
+[![website](./instagram-dark.svg)]([https://instagram.com/codeSTACKr#gh-light-mode-only](https://www.instagram.com/mrzero_zz/))
 
 ### Languages and Tools:
 
