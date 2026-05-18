@@ -12,7 +12,7 @@
   <p>𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓃𝑒𝑒𝒹 𝓉𝑜 𝑒𝓍𝓅𝓁𝑜𝓇𝑒</p>
   <p>𝐼𝓉'𝓈 𝓉𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓉𝒽𝑒 𝓇𝒶𝒾𝓁</p>
 <p>𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓁𝑜𝓋𝑒 𝒶𝓃𝒹 𝒶𝒹𝑜𝓇𝑒</p>
-<p><a href="https://www.youtube.com/watch?v=CFlhlZbeKgE">- 𝒯𝐸𝒦𝒦𝒩𝒪 𝒯𝑅𝒜𝐼𝒩 - 𝐸𝓁𝑒𝒸𝓉𝓇𝒾𝒸 𝒞𝒶𝓁𝓁𝒷𝑜𝓎</a><p>
+<p><a href="[https://www.youtube.com/watch?v=CFlhlZbeKgE](https://www.tiktok.com/@mrzero1703?is_from_webapp=1&sender_device=pc)">- TikTok</a><p>
   
 </div>
     <div align="center">
