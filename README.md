@@ -8,7 +8,7 @@
 
 </div>
 
-## Profile đi mượn
+## I'm lazy
 - 🌱 Hiện tại tôi đang học mọi thứ 
 - 👯 Tôi đang tìm cách cộng tác với những người sáng tạo nội dung khác
 - ⚡ Chơi game và làm việc
