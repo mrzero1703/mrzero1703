@@ -16,8 +16,8 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./instagram-light.svg)]([https://instagram.com/codeSTACKr#gh-light-mode-only](https://www.instagram.com/mrzero_zz/))
-[![website](./instagram-dark.svg)]([https://instagram.com/codeSTACKr#gh-dark-mode-only](https://www.instagram.com/mrzero_zz/))
+[![website](./instagram-light.svg)]([https://instagram.com/codeSTACKr#gh-light-mode-only](https://www.instagram.com/mrzero_zz/mrzero1703#gh-light-mode-only))
+[![website](./instagram-dark.svg)]([https://instagram.com/codeSTACKr#gh-dark-mode-only](https://www.instagram.com/mrzero_zz/mrzero1703#gh-light-mode-only))
 
 ### Languages and Tools:
 
