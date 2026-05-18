@@ -1,4 +1,4 @@
-# Hi there, I'm Wuang - aka [codeSTACKr][youtube] 👋 
+# Hi there, I'm Huy Quang - Wang 👋 
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
