@@ -1,6 +1,6 @@
 # Hi there, I'm Huy Quang - Wang 👋 "Nếu cả đời thương nhớ mãi một người thì sao"
 
-<div align="center">
+<div align="">
   
 | <img src="https://img.shields.io/badge/🎓-Final%20Year-FF6B6B?style=for-the-badge&logoColor=white"/> | <img src="https://img.shields.io/badge/🛡️-Network%20Security-9D4EDD?style=for-the-badge&logoColor=white"/> | <img src="https://img.shields.io/badge/🌐-VMU-00D4AA?style=for-the-badge&logoColor=white"/> |
 |:---:|:---:|:---:|
