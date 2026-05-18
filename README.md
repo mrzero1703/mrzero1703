@@ -1,7 +1,12 @@
 # Hi there, I'm Huy Quang - Wang 👋 "Nếu cả đời thương nhớ mãi một người thì sao"
 
-[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
-[![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
+<div align="center">
+  
+| <img src="https://img.shields.io/badge/🎓-Final%20Year-FF6B6B?style=for-the-badge&logoColor=white"/> | <img src="https://img.shields.io/badge/🛡️-Network%20Security-9D4EDD?style=for-the-badge&logoColor=white"/> | <img src="https://img.shields.io/badge/🌐-VMU-00D4AA?style=for-the-badge&logoColor=white"/> |
+|:---:|:---:|:---:|
+| **Computer Networking** | **Security Specialist** | **Vietnam Maritime University** |
+
+</div>
 ## Profile đi mượn
 - 🌱 Hiện tại tôi đang học mọi thứ 
 - 👯 Tôi đang tìm cách cộng tác với những người sáng tạo nội dung khác
