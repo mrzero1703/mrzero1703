@@ -11,9 +11,7 @@
 ## Profile đi mượn
 - 🌱 Hiện tại tôi đang học mọi thứ 
 - 👯 Tôi đang tìm cách cộng tác với những người sáng tạo nội dung khác
-- 🥅 Tôi yêu bạn
 - ⚡ Chơi game và làm việc
--    Tôi thích chỉnh sửa ảnh
 
 ### Connect with me:
 
