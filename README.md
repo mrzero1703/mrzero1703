@@ -20,8 +20,6 @@
 &nbsp;&nbsp;
 [![website](./instagram-dark.svg)]([https://instagram.com/codeSTACKr#gh-light-mode-only](https://www.instagram.com/mrzero_zz/))
 
-### Languages and Tools:
-
 ### Frontend
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&amp;logo=nuxtdotjs&amp;logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&amp;logo=vuedotjs&amp;logoColor=white)
