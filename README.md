@@ -3,7 +3,7 @@
 
 <div align="">
   
-| <img src="https://img.shields.io/badge/🎓-Final%20Year-FF6B6B?style=for-the-badge&logoColor=white"/> | <img src="https://img.shields.io/badge/🛡️-Network%20Security-9D4EDD?style=for-the-badge&logoColor=white"/> | <img src="https://img.shields.io/badge/🌐-VMU-00D4AA?style=for-the-badge&logoColor=white"/> |
+| <img src="https://img.shields.io/badge/🎓Third%20Year-FF6B6B?style=for-the-badge&logoColor=white"/> | <img src="https://img.shields.io/badge/🛡️-Network%20Security-9D4EDD?style=for-the-badge&logoColor=white"/> | <img src="https://img.shields.io/badge/🌐-VMU-00D4AA?style=for-the-badge&logoColor=white"/> |
 |:---:|:---:|:---:|
 | **Computer Networking** | **Security Specialist** | **Vietnam Maritime University** |
 
