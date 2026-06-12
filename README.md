@@ -17,7 +17,7 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./instagram-dark.svg)]([https://instagram.com/codeSTACKr#gh-light-mode-only](https://www.instagram.com/mrzero_zz/))
+[![website](./instagram-dark.svg)]([https://www.instagram.com/mrzero_zz/](https://www.instagram.com/mrzero_zz/))
 
 ### Frontend
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&amp;logo=nuxtdotjs&amp;logoColor=black)
